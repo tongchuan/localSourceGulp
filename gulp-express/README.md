@@ -1,0 +1,60 @@
+# gulp-express-mysql-
+
+npm install --save-dev gulp
+npm install --save-dev gulp-nodemon
+npm install --save-dev browser-sync
+npm install --save-dev gulp-jade
+npm install --save-dev del
+npm install --save-dev gulp-sourcemaps
+npm install --save-dev gulp-autoprefixer
+npm install --save-dev gulp-coffee
+npm install --save-dev gulp-imagemin
+npm install --save-dev gulp-concat
+npm install --save-dev gulp-util
+npm install --save-dev gulp-sass
+npm install --save-dev gulp-inject
+npm install --save-dev gulp-jshint
+npm install --save-dev gulp-uglify
+npm install --save-dev gulp-rename
+npm install --save-dev gulp-less
+npm install --save-dev gulp-babel
+npm install --save-dev gulp-notify
+npm install --save-dev gulp-ejs
+npm install --save-dev gulp-load-plugins
+npm install --save-dev gulp-zip
+npm install --save-dev gulp-changed
+npm install --save-dev gulp-cssmin
+npm install --save-dev gulp-sequence
+
+npm install --save-dev express@4
+npm install --save-dev mysql
+npm install --save-dev jade
+npm install --save-dev debug
+npm install --save-dev morgan
+npm install --save-dev serve-favicon
+npm install --save-dev cookie-parser
+npm install --save-dev body-parser
+npm install --save-dev install
+npm install --save-dev ejs
+
+
+start
+
+gulp  or  npm start
+
+gulp
+http://localhost:5000/
+
+npm start 
+http://localhost:3000/
+
+
+jade of express
+gulp-jade is not data;
+
+
+
+bower install requirejs
+bower install jquery
+
+

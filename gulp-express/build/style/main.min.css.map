@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["main.css"],"sourcesContent":["body {\n  background: #ff0000;\n  padding: 0; }\n\ndiv {\n  box-sizing: border-box;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex; }\n\nbody {\n  background: #00ff00;\n  border: 12px solid #f00; }\n"],"file":"main.min.css","sourceRoot":"/source/"}

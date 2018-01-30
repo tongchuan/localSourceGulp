@@ -1,0 +1,13 @@
+body {
+  background: #ff0000;
+  padding: 0; }
+
+div {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+body {
+  background: #00ff00;
+  border: 12px solid #f00; }
